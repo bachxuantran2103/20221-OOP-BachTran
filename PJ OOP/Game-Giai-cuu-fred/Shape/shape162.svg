@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="68px" height="9px"
+xml:space="preserve">
+<g id="89" transform="matrix(1, 0, 0, 1, 70.4, 0.45)">
+<path style="fill:#727171;fill-opacity:1" d="M-65.9,3.3L-65.9 7.3L-69.9 7.45L-69.9 0.05L-65.9 0.1L-3.25 1L-3.25 3.3L-65.9 3.3" />
+<path style="fill:#545454;fill-opacity:1" d="M-3.25,3.3L-3.25 4.7L-65.9 7.3L-65.9 3.3L-3.25 3.3" />
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke:#333333;stroke-opacity:1" d="M-65.9,7.3L-69.9 7.45L-69.9 0.05L-65.9 0.1L-3.25 1L-3.25 3.3L-3.25 4.7L-65.9 7.3L-65.9 3.3L-65.9 0.1" />
+</g>
+</svg>

@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\bin\Debug\net5.0\20206272 W2_2 Employee.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\bin\Debug\net5.0\20206272 W2_2 Employee.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\bin\Debug\net5.0\20206272 W2_2 Employee.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\bin\Debug\net5.0\20206272 W2_2 Employee.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\bin\Debug\net5.0\20206272 W2_2 Employee.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\bin\Debug\net5.0\20206272 W2_2 Employee.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\refint\20206272 W2_2 Employee.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\20206272 W2_2 Employee.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_2 Employee\obj\Debug\net5.0\ref\20206272 W2_2 Employee.dll

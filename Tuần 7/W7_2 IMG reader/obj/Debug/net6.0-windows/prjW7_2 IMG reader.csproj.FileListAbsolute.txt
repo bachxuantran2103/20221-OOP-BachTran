@@ -1,0 +1,20 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\prjW7_2 IMG reader.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\prjW7_2 IMG reader.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\prjW7_2 IMG reader.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\prjW7_2 IMG reader.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\prjW7_2 IMG reader.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.csproj.CopyComplete
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\refint\prjW7_2 IMG reader.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\prjW7_2 IMG reader.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_2 IMG reader\obj\Debug\net6.0-windows\ref\prjW7_2 IMG reader.dll

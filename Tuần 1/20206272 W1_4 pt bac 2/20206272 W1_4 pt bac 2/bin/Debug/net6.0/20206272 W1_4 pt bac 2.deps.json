@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "20206272 W1_4 pt bac 2/1.0.0": {
+        "runtime": {
+          "20206272 W1_4 pt bac 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20206272 W1_4 pt bac 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

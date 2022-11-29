@@ -1,0 +1,32 @@
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.deps.json
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.runtimeconfig.json
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.runtimeconfig.dev.json
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\ref\20206272 W1_3 Sum1-100.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.AssemblyInfoInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.AssemblyInfo.cs
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\ref\20206272 W1_3 Sum1-100.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\bin\Debug\net5.0\20206272 W1_3 Sum1-100.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\refint\20206272 W1_3 Sum1-100.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\20206272 W1_3 Sum1-100.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_3 Sum1-100\20206272 W1_3 Sum1-100\obj\Debug\net5.0\ref\20206272 W1_3 Sum1-100.dll

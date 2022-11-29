@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\bin\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\bin\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\bin\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\bin\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\bin\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\refint\W6  Temperatures Collection and GreaterCount.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\W6  Temperatures Collection and GreaterCount.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6  Temperatures Collection and GreaterCount\obj\Debug\net6.0-windows\ref\W6  Temperatures Collection and GreaterCount.dll

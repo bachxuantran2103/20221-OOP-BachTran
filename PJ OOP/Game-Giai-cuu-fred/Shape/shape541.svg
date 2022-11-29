@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="150px" height="36px"
+xml:space="preserve">
+<g id="255" transform="matrix(1, 0, 0, 1, -23.35, -17.5)">
+<path style="fill:#7A9F9F;fill-opacity:1" d="M172.25,21.25L172.25 49.2Q172.25 52.45 169 52.45L27.1 52.45Q23.85 52.45 23.85 49.2L23.85 21.25Q23.85 18 27.1 18L169 18Q172.25 18 172.25 21.25" />
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke:#435B5B;stroke-opacity:1" d="M169,18L27.1 18Q23.85 18 23.85 21.25L23.85 49.2Q23.85 52.45 27.1 52.45L169 52.45Q172.25 52.45 172.25 49.2L172.25 21.25Q172.25 18 169 18z" />
+<path style="fill:#333232;fill-opacity:1" d="M164.95,49.3L31.7 49.3Q28.65 49.3 28.65 46.75L28.65 24.6Q28.65 22 31.7 22L164.95 22Q168 22 168 24.6L168 46.75Q168 49.3 164.95 49.3" />
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke:#435B5B;stroke-opacity:1" d="M168,46.75L168 24.6Q168 22 164.95 22L31.7 22Q28.65 22 28.65 24.6L28.65 46.75Q28.65 49.3 31.7 49.3L164.95 49.3Q168 49.3 168 46.75z" />
+</g>
+</svg>

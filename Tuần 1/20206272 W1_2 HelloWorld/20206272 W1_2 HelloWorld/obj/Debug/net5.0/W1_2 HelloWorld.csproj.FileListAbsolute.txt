@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\bin\Debug\net5.0\W1_2 HelloWorld.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\bin\Debug\net5.0\W1_2 HelloWorld.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\bin\Debug\net5.0\W1_2 HelloWorld.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\bin\Debug\net5.0\W1_2 HelloWorld.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\bin\Debug\net5.0\W1_2 HelloWorld.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\bin\Debug\net5.0\W1_2 HelloWorld.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\refint\W1_2 HelloWorld.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\W1_2 HelloWorld.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_2 HelloWorld\20206272 W1_2 HelloWorld\obj\Debug\net5.0\ref\W1_2 HelloWorld.dll

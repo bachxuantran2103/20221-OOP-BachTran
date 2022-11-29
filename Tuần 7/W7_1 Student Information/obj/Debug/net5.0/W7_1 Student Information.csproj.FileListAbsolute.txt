@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\bin\Debug\net5.0\W7_1 Student Information.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\bin\Debug\net5.0\W7_1 Student Information.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\bin\Debug\net5.0\W7_1 Student Information.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\bin\Debug\net5.0\W7_1 Student Information.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\bin\Debug\net5.0\W7_1 Student Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\bin\Debug\net5.0\W7_1 Student Information.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\refint\W7_1 Student Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\W7_1 Student Information.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 7\W7_1 Student Information\obj\Debug\net5.0\ref\W7_1 Student Information.dll

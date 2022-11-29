@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\bin\Debug\net6.0-windows\W4_2  POINT 2.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\bin\Debug\net6.0-windows\W4_2  POINT 2.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\bin\Debug\net6.0-windows\W4_2  POINT 2.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\bin\Debug\net6.0-windows\W4_2  POINT 2.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\bin\Debug\net6.0-windows\W4_2  POINT 2.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\refint\W4_2  POINT 2.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\W4_2  POINT 2.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_2  POINT 2\obj\Debug\net6.0-windows\ref\W4_2  POINT 2.dll

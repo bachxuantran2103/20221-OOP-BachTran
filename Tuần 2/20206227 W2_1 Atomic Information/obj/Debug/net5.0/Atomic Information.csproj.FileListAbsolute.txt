@@ -1,0 +1,32 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\bin\Debug\net5.0\Atomic Information.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\bin\Debug\net5.0\Atomic Information.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\bin\Debug\net5.0\Atomic Information.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\bin\Debug\net5.0\Atomic Information.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\bin\Debug\net5.0\Atomic Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\bin\Debug\net5.0\Atomic Information.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\refint\Atomic Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\Atomic Information.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\Atomic Information\obj\Debug\net5.0\ref\Atomic Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\bin\Debug\net5.0\Atomic Information.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\bin\Debug\net5.0\Atomic Information.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\bin\Debug\net5.0\Atomic Information.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\bin\Debug\net5.0\Atomic Information.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\bin\Debug\net5.0\Atomic Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\bin\Debug\net5.0\Atomic Information.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\refint\Atomic Information.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\Atomic Information.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206227 W2_1 Atomic Information\obj\Debug\net5.0\ref\Atomic Information.dll

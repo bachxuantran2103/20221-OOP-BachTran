@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W4_1 Class Sinh Viên/1.0.0": {
+        "runtime": {
+          "W4_1 Class Sinh Viên.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W4_1 Class Sinh Viên/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

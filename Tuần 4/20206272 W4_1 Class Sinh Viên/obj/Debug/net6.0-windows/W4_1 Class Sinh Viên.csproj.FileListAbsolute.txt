@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\bin\Debug\net6.0-windows\W4_1 Class Sinh Viên.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\bin\Debug\net6.0-windows\W4_1 Class Sinh Viên.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\bin\Debug\net6.0-windows\W4_1 Class Sinh Viên.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\bin\Debug\net6.0-windows\W4_1 Class Sinh Viên.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\bin\Debug\net6.0-windows\W4_1 Class Sinh Viên.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\refint\W4_1 Class Sinh Viên.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\W4_1 Class Sinh Viên.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_1 Class Sinh Viên\obj\Debug\net6.0-windows\ref\W4_1 Class Sinh Viên.dll

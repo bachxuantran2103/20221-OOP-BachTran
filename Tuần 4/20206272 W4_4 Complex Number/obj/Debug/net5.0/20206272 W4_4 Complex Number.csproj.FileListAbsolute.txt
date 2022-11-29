@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\bin\Debug\net5.0\20206272 W4_4 Complex Number.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\bin\Debug\net5.0\20206272 W4_4 Complex Number.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\bin\Debug\net5.0\20206272 W4_4 Complex Number.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\bin\Debug\net5.0\20206272 W4_4 Complex Number.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\bin\Debug\net5.0\20206272 W4_4 Complex Number.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\bin\Debug\net5.0\20206272 W4_4 Complex Number.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\refint\20206272 W4_4 Complex Number.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\20206272 W4_4 Complex Number.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_4 Complex Number\obj\Debug\net5.0\ref\20206272 W4_4 Complex Number.dll

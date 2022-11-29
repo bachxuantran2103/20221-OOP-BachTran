@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\bin\Debug\net6.0-windows\W5_1 Namespace.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\bin\Debug\net6.0-windows\W5_1 Namespace.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\bin\Debug\net6.0-windows\W5_1 Namespace.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\bin\Debug\net6.0-windows\W5_1 Namespace.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\bin\Debug\net6.0-windows\W5_1 Namespace.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\refint\W5_1 Namespace.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\W5_1 Namespace.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_1 Namespace\obj\Debug\net6.0-windows\ref\W5_1 Namespace.dll

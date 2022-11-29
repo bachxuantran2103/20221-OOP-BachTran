@@ -1,0 +1,24 @@
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\Document Client.exe
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\Document Client.deps.json
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\Document Client.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\Document Client.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\Document Client.pdb
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document_Client.Form1.resources
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.csproj.GenerateResource.cache
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.csproj.CopyComplete
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\refint\Document Client.dll
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.pdb
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\Document Client.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Document Client\obj\Debug\net7.0-windows\ref\Document Client.dll

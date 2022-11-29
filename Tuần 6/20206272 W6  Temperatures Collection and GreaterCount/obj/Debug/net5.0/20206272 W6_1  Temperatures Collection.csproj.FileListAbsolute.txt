@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\bin\Debug\net5.0\20206272 W6_1  Temperatures Collection.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\bin\Debug\net5.0\20206272 W6_1  Temperatures Collection.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\bin\Debug\net5.0\20206272 W6_1  Temperatures Collection.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\bin\Debug\net5.0\20206272 W6_1  Temperatures Collection.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\bin\Debug\net5.0\20206272 W6_1  Temperatures Collection.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\bin\Debug\net5.0\20206272 W6_1  Temperatures Collection.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\refint\20206272 W6_1  Temperatures Collection.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\20206272 W6_1  Temperatures Collection.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 6\20206272 W6_1  Temperatures Collection\obj\Debug\net5.0\ref\20206272 W6_1  Temperatures Collection.dll

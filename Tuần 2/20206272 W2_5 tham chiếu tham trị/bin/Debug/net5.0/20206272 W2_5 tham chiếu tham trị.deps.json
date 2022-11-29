@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "20206272 W2_5 tham chiếu tham trị/1.0.0": {
+        "runtime": {
+          "20206272 W2_5 tham chiếu tham trị.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20206272 W2_5 tham chiếu tham trị/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W6  Temperatures Collection and GreaterCount", "W6  Temperatures Collection and GreaterCount.csproj", "{C0FD9980-21CB-440F-A5D3-54BF12AD7972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0FD9980-21CB-440F-A5D3-54BF12AD7972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FD9980-21CB-440F-A5D3-54BF12AD7972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FD9980-21CB-440F-A5D3-54BF12AD7972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FD9980-21CB-440F-A5D3-54BF12AD7972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88521320-BB01-4475-AC24-CBC6A5903B6D}
+	EndGlobalSection
+EndGlobal

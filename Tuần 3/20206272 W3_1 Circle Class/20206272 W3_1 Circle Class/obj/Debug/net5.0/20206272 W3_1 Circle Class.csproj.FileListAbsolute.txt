@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\bin\Debug\net5.0\20206272 W3_1 Circle Class.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\bin\Debug\net5.0\20206272 W3_1 Circle Class.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\bin\Debug\net5.0\20206272 W3_1 Circle Class.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\bin\Debug\net5.0\20206272 W3_1 Circle Class.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\bin\Debug\net5.0\20206272 W3_1 Circle Class.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\bin\Debug\net5.0\20206272 W3_1 Circle Class.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\refint\20206272 W3_1 Circle Class.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\20206272 W3_1 Circle Class.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_1 Circle Class\20206272 W3_1 Circle Class\obj\Debug\net5.0\ref\20206272 W3_1 Circle Class.dll

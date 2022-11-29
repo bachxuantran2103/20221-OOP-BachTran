@@ -1,0 +1,48 @@
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Demo Builder Pattern for any Class.exe
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Demo Builder Pattern for any Class.deps.json
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Demo Builder Pattern for any Class.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Demo Builder Pattern for any Class.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Demo Builder Pattern for any Class.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Demo Builder Pattern for any Class.pdb
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\refint\Demo Builder Pattern for any Class.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.pdb
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\ref\Demo Builder Pattern for any Class.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Enums.NET.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\MathNet.Numerics.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\NPOI.OOXML.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\NPOI.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\SixLabors.Fonts.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\SixLabors.ImageSharp.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Security.Cryptography.Xml.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Lập trình hướng đối tượng OOP\Demo Builder Pattern for any Class\obj\Debug\net5.0\Demo Builder Pattern for any Class.csproj.CopyComplete

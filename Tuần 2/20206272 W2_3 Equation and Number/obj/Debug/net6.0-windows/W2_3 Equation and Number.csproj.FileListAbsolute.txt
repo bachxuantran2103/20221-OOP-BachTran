@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\bin\Debug\net6.0-windows\W2_3 Equation and Number.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\bin\Debug\net6.0-windows\W2_3 Equation and Number.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\bin\Debug\net6.0-windows\W2_3 Equation and Number.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\bin\Debug\net6.0-windows\W2_3 Equation and Number.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\bin\Debug\net6.0-windows\W2_3 Equation and Number.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\refint\W2_3 Equation and Number.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\W2_3 Equation and Number.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_3 Equation and Number\obj\Debug\net6.0-windows\ref\W2_3 Equation and Number.dll

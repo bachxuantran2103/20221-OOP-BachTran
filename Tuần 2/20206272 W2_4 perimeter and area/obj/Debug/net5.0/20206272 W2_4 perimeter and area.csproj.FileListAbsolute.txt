@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\bin\Debug\net5.0\20206272 W2_4 perimeter and area.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\bin\Debug\net5.0\20206272 W2_4 perimeter and area.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\bin\Debug\net5.0\20206272 W2_4 perimeter and area.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\bin\Debug\net5.0\20206272 W2_4 perimeter and area.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\bin\Debug\net5.0\20206272 W2_4 perimeter and area.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\bin\Debug\net5.0\20206272 W2_4 perimeter and area.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\refint\20206272 W2_4 perimeter and area.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\20206272 W2_4 perimeter and area.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 2\20206272 W2_4 perimeter and area\obj\Debug\net5.0\ref\20206272 W2_4 perimeter and area.dll

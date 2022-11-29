@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W6  Temperatures Collection and GreaterCount/1.0.0": {
+        "runtime": {
+          "W6  Temperatures Collection and GreaterCount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W6  Temperatures Collection and GreaterCount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

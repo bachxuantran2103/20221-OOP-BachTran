@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\bin\Debug\net5.0\W4_5 Polynomial.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\bin\Debug\net5.0\W4_5 Polynomial.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\bin\Debug\net5.0\W4_5 Polynomial.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\bin\Debug\net5.0\W4_5 Polynomial.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\bin\Debug\net5.0\W4_5 Polynomial.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\bin\Debug\net5.0\W4_5 Polynomial.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\refint\W4_5 Polynomial.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\W4_5 Polynomial.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 4\20206272 W4_5 Polynomial\obj\Debug\net5.0\ref\W4_5 Polynomial.dll

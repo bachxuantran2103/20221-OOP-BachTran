@@ -1,0 +1,16 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\bin\Debug\net5.0\20206272 W3_2 Person Class.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\bin\Debug\net5.0\20206272 W3_2 Person Class.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\bin\Debug\net5.0\20206272 W3_2 Person Class.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\bin\Debug\net5.0\20206272 W3_2 Person Class.runtimeconfig.dev.json
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\bin\Debug\net5.0\20206272 W3_2 Person Class.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\bin\Debug\net5.0\20206272 W3_2 Person Class.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\refint\20206272 W3_2 Person Class.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\20206272 W3_2 Person Class.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 3\20206272 W3_2 Person Class\20206272 W3_2 Person Class\obj\Debug\net5.0\ref\20206272 W3_2 Person Class.dll

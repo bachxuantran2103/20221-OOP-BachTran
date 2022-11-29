@@ -1,0 +1,30 @@
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.exe
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.deps.json
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.runtimeconfig.json
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.AssemblyInfoInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.AssemblyInfo.cs
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\refint\20206272 W1_4 pt bac 2.dll
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.genruntimeconfig.cache
+D:\OneDrive - Hanoi University of Science and Technology\Desktop\Bài giảng 20221\Lập trình hướng đối tương OOP\20206272 Trần Xuân Bách\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\ref\20206272 W1_4 pt bac 2.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\bin\Debug\net6.0\20206272 W1_4 pt bac 2.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\refint\20206272 W1_4 pt bac 2.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\20206272 W1_4 pt bac 2.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 1\20206272 W1_4 pt bac 2\20206272 W1_4 pt bac 2\obj\Debug\net6.0\ref\20206272 W1_4 pt bac 2.dll

@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\bin\Debug\net7.0\Đồ án OOP.exe
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\bin\Debug\net7.0\Đồ án OOP.deps.json
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\bin\Debug\net7.0\Đồ án OOP.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\bin\Debug\net7.0\Đồ án OOP.dll
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\bin\Debug\net7.0\Đồ án OOP.pdb
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.dll
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\refint\Đồ án OOP.dll
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.pdb
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\Đồ án OOP.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Đồ án OOP\obj\Debug\net7.0\ref\Đồ án OOP.dll

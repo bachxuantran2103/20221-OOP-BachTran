@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\bin\Debug\net6.0-windows\prjW5_2 AmountException.exe
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\bin\Debug\net6.0-windows\prjW5_2 AmountException.deps.json
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\bin\Debug\net6.0-windows\prjW5_2 AmountException.runtimeconfig.json
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\bin\Debug\net6.0-windows\prjW5_2 AmountException.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\bin\Debug\net6.0-windows\prjW5_2 AmountException.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\refint\prjW5_2 AmountException.dll
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.pdb
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\prjW5_2 AmountException.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng OOP\Tuần 5\20206272 W5_2 AmountException\obj\Debug\net6.0-windows\ref\prjW5_2 AmountException.dll
